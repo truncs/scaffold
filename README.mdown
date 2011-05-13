@@ -18,6 +18,7 @@ This is a scaffold project that I will use for experimenting with html canvas.
 # Installation 
 
 On Ubuntu: 
+
    		   $ sudo apt-get install ruby rubygems
   		   $ gem install sinatra thin haml
   		   $ git clone https://truncs@github.com/truncs/scaffold.git
