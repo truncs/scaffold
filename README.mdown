@@ -9,6 +9,7 @@ This is a scaffold project that I will use for experimenting with html canvas.
 		* Sinatra
 		* Thin
 		* Haml
+		
 # Libraries
 		* Jquery
 		* Processing.js
@@ -23,4 +24,6 @@ On Ubuntu:
 
 # How to Run
 
-  $ ruby -rubygems /path/to/scaffold/index.rb
+  $ cd /to/scaffold/directory/
+  $ chmod +x start.sh
+  $ ./start.sh
