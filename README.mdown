@@ -1,0 +1,21 @@
+# Introduction
+
+This is a scaffold project that I would use for experimenting with html canvas.
+
+# Dependencies
+
+		* Ruby
+		* Ruby Gems
+		* Sinatra
+		* Thin
+		* Haml
+
+# Installation 
+  On Ubuntu: 
+  $sudo apt-get install ruby rubygems
+  $gem install sinatra thin haml
+  $ git clone https://truncs@github.com/truncs/scaffold.git
+
+# How to Run
+
+  $ ruby -rubygems /path/to/scaffold/index.rb
