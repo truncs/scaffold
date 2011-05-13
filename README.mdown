@@ -18,12 +18,12 @@ This is a scaffold project that I will use for experimenting with html canvas.
 # Installation 
 
 On Ubuntu: 
-  $ sudo apt-get install ruby rubygems
-  $ gem install sinatra thin haml
-  $ git clone https://truncs@github.com/truncs/scaffold.git
+   		   $ sudo apt-get install ruby rubygems
+  		   $ gem install sinatra thin haml
+  		   $ git clone https://truncs@github.com/truncs/scaffold.git
 
 # How to Run
 
-  $ cd /to/scaffold/directory/
-  $ chmod +x start.sh
-  $ ./start.sh
+  	  	 $ cd /to/scaffold/directory/
+  		 $ chmod +x start.sh
+  		 $ ./start.sh
